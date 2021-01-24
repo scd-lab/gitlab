@@ -22,3 +22,5 @@ Student ID | Movie | Year of Release
 --- | --- | ---
 SCD001|Kung Fu Panda |2008
 SCD001|Dark Knight | 2008
+SCD001|Kung Fu Panda |2008
+SCD001|Dark Knight | 2008
