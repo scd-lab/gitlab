@@ -22,3 +22,9 @@ Student ID | Movie | Year of Release
 --- | --- | ---
 SCD001|Kung Fu Panda |2008
 SCD001|Dark Knight | 2008
+SCD001|Where Eagles Dare|1968
+SCD001|A Bridge Too Far|1977
+SCD001|No Country for Old men| 2001
+SCD001|The Avengers | 2012
+SCD001|The GodFather | 1972
+SCD001|King Kong| 1994
