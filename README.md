@@ -20,6 +20,8 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+SCD001|Hulk|2001
+SCD001|Thor|2002
 SCD001| Training day | 1998
 SCD001|Gladiator | 1994
 SCD001|Troy | 2002
