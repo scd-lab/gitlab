@@ -20,6 +20,7 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+SCD001| Training day | 1998
 SCD001|Gladiator | 1994
 SCD001|Troy | 2002
 SCD001|Antz |2008
