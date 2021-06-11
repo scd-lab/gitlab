@@ -42,3 +42,5 @@ SCD001|Dark knight | 2009
 SCD001 |Lion King | 1990
 SCD001 | Superman | 1964
 SCD001 | Star war IV | 1976
+SCD001 | Aladdin | 1993
+SCD001 | Independence Day | 1996
