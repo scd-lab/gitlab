@@ -1,4 +1,4 @@
- CS2001: 2020-21 git Lab 2 
+Git Lab 
 
 ## Dr. Sarath Chandra Dantu
 
