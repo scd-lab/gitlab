@@ -40,3 +40,5 @@ SCD001|The GodFather | 1972
 SCD001|King Kong| 1994
 SCD001|Dark knight | 2009
 SCD001 |Lion King | 1990
+SCD001 | Superman | 1964
+SCD001 | Star war IV | 1976
