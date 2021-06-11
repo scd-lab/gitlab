@@ -38,3 +38,5 @@ SCD001|No Country for Old men| 2001
 SCD001|The Avengers | 2012
 SCD001|The GodFather | 1972
 SCD001|King Kong| 1994
+SCD001|Dark knight | 2009
+SCD001 |Lion King | 1990
